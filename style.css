@@ -1,0 +1,34 @@
+.header_div{
+    background-color:cadetblue;
+    margin-bottom: 20px;
+}
+.main_div{
+    background-color: darkcyan;
+    height: 98%;
+}
+.main_div button{
+    height: 40px;
+    width: 80px;
+    border-width: 2px;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    background-color: royalblue;
+    font-family: 'Nunito';
+    font-weight: bolder;
+    font-size: 16px;
+}
+.main_div button:hover{
+    background-color: rgb(40, 74, 177);
+}
+.footer_div{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    font-family: 'Raleway';
+    background-color:rgb(12, 77, 161);
+    text-shadow: 5px 5px 10px rgb(211, 124, 92);
+    color: rgb(255, 0, 0);
+}
